@@ -3,8 +3,14 @@
 
 # Reference  
 
-##  如何使用 Kubernetes 轻松部署深度学习模型    
+##  如何使用 Kubernetes 轻松部署深度学习模型  
 
+**CN**   
+https://www.jiqizhixin.com/articles/101403    
+
+https://cloud.tencent.com/developer/article/1356384    
+
+**EN**   
 https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
 
 
